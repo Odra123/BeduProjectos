@@ -2,8 +2,8 @@
 
 Equipo 4
 
-Integrantes 
-María Luna Alvarez 
-Julio Gonzalez Sosa 
-Yves Andrade Cervantes 
-Miguel Morales Barrera 
+Integrantes <br/>
+María Luna Alvarez <br/>
+Julio Gonzalez Sosa <br/>
+Yves Andrade Cervantes <br/>
+Miguel Morales Barrera <br/>
